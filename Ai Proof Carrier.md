@@ -85,3 +85,5 @@ This roadmap will help you transition from an Android Developer to a Solution Ar
 💡 The goal is not just to "survive AI" but **to design and optimize AI-powered solutions**.
 
 Would you like to customize this roadmap based on your interests and timeline? 😊
+
+https://chatgpt.com/c/67c81c2e-dcf4-8001-b5c5-a3343c91ccd7
