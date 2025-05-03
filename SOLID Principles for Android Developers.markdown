@@ -559,7 +559,9 @@ class UserManager(private val dataSource: UserDataSource) {
 
 ---
 
-For more Android-specific examples (e.g., Jetpack Compose, Room, or Hilt), reach out!
-```
+# SOLID Principles Resources
 
-This Markdown structure uses proper formatting (headers, code blocks with triple backticks, and emphasis) for clarity and readability in blogs or documentation.
+- [GeeksforGeeks: SOLID Principle in Programming (with Real-Life Examples)](https://www.geeksforgeeks.org/solid-principle-in-programming-understand-with-real-life-examples/)
+- [YouTube Playlist: SOLID Principles Explained](https://www.youtube.com/watch?v=t8VTLxMsufU&list=PLaEHa-6HyZqn2SFCUhyRu7ZL8ZnUsyT69)
+- [Baeldung: SOLID Principles](https://www.baeldung.com/solid-principles)
+```
